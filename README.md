@@ -10,7 +10,7 @@
 		- source .venv/bin/activate
 	- Ollama
 		- curl -fsSL https://ollama.com/install.sh | sh
-	- ollmcp
+	- ollmcp (MCP Client Code)
 		- uvx ollmcp
 	- MCP
 		- uv pip install mcp[cli]
