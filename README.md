@@ -1,0 +1,20 @@
+- New OS
+	- ISO from Rodney 
+	- Change boot order and install new OS
+- Install requirements
+	- - UV
+		- curl -LsSf https://astral.sh/uv/install.sh | sh
+		- Close terminal and restart
+	- Venv
+		- uv venv
+		- source .venv/bin/activate
+	- Ollama
+		- curl -fsSL https://ollama.com/install.sh | sh
+	- ollmcp
+		- uvx ollmcp
+	- MCP
+		- uv pip install mcp[cli]
+	- Elasticsearch
+		- uv pip install elasticsearch
+- MCP Server Code 
+	- Access at 
