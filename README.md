@@ -17,4 +17,4 @@
 	- Elasticsearch
 		- uv pip install elasticsearch
 - MCP Server Code 
-	- Access at 
+	- Access at server.py
